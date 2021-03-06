@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Tiếp the Video Creator on facebook
-image_path: /images/lighting-design/avatar.jpg
+image_path: /images/avatar.jpg
 banner_path: /images/lighting-design/avatar.jpg
 tagline: Tiếp create natural videos supporting real estate, apartments advertising.
 card_color: "#F39C12"
